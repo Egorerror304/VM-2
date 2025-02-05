@@ -1,4 +1,4 @@
-
+alert("Welcome!♥♥♥");
 let currentImageIndex = 0;
 let images = document.querySelectorAll(".gallery img");
 
